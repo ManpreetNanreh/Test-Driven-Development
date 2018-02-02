@@ -1,2 +1,2 @@
 # Test-Driven-Development
-This was a practice project to learn the test driven development process.
+This was a practice project to learn the Test Driven Development process. It implements the Graph Interface which consists of an undirected graph. Once a graph is successfully created by satisfying all the rules, the Depth First Search is used to visit as much vertices as possible from a starting vertex and keeping track of all the vertices reachable from that starting vertex. This provides us with a connected component of the graph. After the Depth First Search is used to determine all the connected components in the Graph. 
